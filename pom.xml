@@ -11,7 +11,7 @@
   <version>1.0.0</version>
 
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
-  <groupId>Mohit020888</groupId>
+  <groupId>Continous-Integration-Continuous-Deploy</groupId>
 
   <distributionManagement>
     <repository>
@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/Mohit020888/03_03_CI_CD_For_Software_Packages</url>
+      <url>https://maven.pkg.github.com/Continous-Integration-Continuous-Deploy/03_03_CI_CD_For_Software_Packages</url>
 
     </repository>
   </distributionManagement>
